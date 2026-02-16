@@ -1,0 +1,7 @@
+{
+  "name": "GrowthMaster: Simulador de Embudo de Conversión",
+  "description": "Un simulador táctico de e-commerce donde asumes el rol de Growth Manager para optimizar el funnel, mejorar el ROI y maximizar la utilidad mediante decisiones estratégicas de UX, Copy y Marketing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
